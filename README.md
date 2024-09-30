@@ -20,6 +20,6 @@ Reverse proxies are servers that situate themselves between the servers (running
   * Caching
   * URL/ Content Rewriting
 
-Examples of softwares that provide Reverse Proxy functionality are: NGINX and HAProxy
+Examples of softwares that provide Reverse Proxy functionality are: **NGINX** and **HAProxy**
 
 In this repo I demonstrate the setting up of NGINX as Reverse Proxy on AWS
