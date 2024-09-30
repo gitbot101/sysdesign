@@ -6,9 +6,9 @@ We will be demonstrating the Reverse Proxy capabilities of NGINX in 2 phases:
   
 ## Pre-requisites
 
-1. **AWS Account** - Ensure to have an AWS Account
-2. **AWS CLI** - Install AWS CLI
-3. **SSH Client** - Ensure to have an SSH Client to connect to your EC2 instance
+* **AWS Account** - Ensure to have an AWS Account
+* **AWS CLI** - Install AWS CLI
+* **SSH Client** - Ensure to have an SSH Client to connect to your EC2 instance
 
 ## Phase1 - Reverse-Proxy using an AWS EC2 Instance
 #### Step 1 - Launch an EC2 Instance
